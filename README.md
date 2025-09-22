@@ -31,20 +31,9 @@
 
 ---
 
-## 📊 Моя активность на GitHub
-
-<p align="center">
-  <a href="https://github.com/[YourUsername]">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[MazerX1]&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ваша статистика"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[MazerX1]&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css" alt="Популярные языки"/>
-  </a>
-</p>
-
----
-
 ## 🚀 Мои ключевые проекты
 
-*   **[Название проекта 1](https://github.com/[YourUsername]/[RepoName])** - Система производственной отчетности, с использованием Flask на серверной части и Vue на клиентской части.
+*   **[SPO](https://github.com/[MazerX1]/[SPO])** - Система производственной отчетности, с использованием Flask на серверной части и Vue на клиентской части.
 
 ---
 
