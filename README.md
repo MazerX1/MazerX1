@@ -33,10 +33,10 @@
 
 ## 🚀 Мои ключевые проекты
 
-*   **[SPO](https://github.com/[MazerX1]/[SPO])** - Система производственной отчетности, с использованием Flask на серверной части и Vue на клиентской части.
+*   **[SPO](https://github.com/MazerX1/SPO)** - Система производственной отчетности, с использованием Flask на серверной части и Vue на клиентской части.
 
 ---
 
 ## 🤝 Свяжитесь со мной
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/[lonelinessXII])
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lonelinessXII)
